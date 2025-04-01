@@ -21,7 +21,6 @@ public class DeclaracionDeVariables : MonoBehaviour
         Debug.Log(magnitudTerremoto);
         Debug.Log(nombreAlumno);
         Debug.Log(compuHabilitada);
-
     }
 
     // Update is called once per frame
